@@ -12,7 +12,7 @@ function App() {
     <>
       <div className="flex items-center max-w-[300px] m-auto border-2 border-[#D2EAF7] rounded-lg p-4 shadow-xl">
         <Card
-          name="Main Heading"
+          name="Main Heading."
           duration="3 months"
           subheading="Sub Heading"
           description="lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
